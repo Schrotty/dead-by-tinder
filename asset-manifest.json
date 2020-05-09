@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dead-by-tinder/static/css/main.f27c0eb1.chunk.css",
+    "main.js": "/dead-by-tinder/static/js/main.7677f965.chunk.js",
+    "main.js.map": "/dead-by-tinder/static/js/main.7677f965.chunk.js.map",
+    "runtime-main.js": "/dead-by-tinder/static/js/runtime-main.18d614d2.js",
+    "runtime-main.js.map": "/dead-by-tinder/static/js/runtime-main.18d614d2.js.map",
+    "static/js/2.6422b117.chunk.js": "/dead-by-tinder/static/js/2.6422b117.chunk.js",
+    "static/js/2.6422b117.chunk.js.map": "/dead-by-tinder/static/js/2.6422b117.chunk.js.map",
+    "index.html": "/dead-by-tinder/index.html",
+    "precache-manifest.5e4f7eee92965693673166cd4e187846.js": "/dead-by-tinder/precache-manifest.5e4f7eee92965693673166cd4e187846.js",
+    "service-worker.js": "/dead-by-tinder/service-worker.js",
+    "static/css/main.f27c0eb1.chunk.css.map": "/dead-by-tinder/static/css/main.f27c0eb1.chunk.css.map",
+    "static/js/2.6422b117.chunk.js.LICENSE.txt": "/dead-by-tinder/static/js/2.6422b117.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.18d614d2.js",
+    "static/js/2.6422b117.chunk.js",
+    "static/css/main.f27c0eb1.chunk.css",
+    "static/js/main.7677f965.chunk.js"
+  ]
+}
