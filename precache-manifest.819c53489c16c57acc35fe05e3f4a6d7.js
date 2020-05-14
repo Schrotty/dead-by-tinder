@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "404ffd8865fe9fa4ca078d82bdd9bb84",
+    "revision": "7f06e81c5a8b8d78af93d270961a0fdb",
     "url": "/dead-by-tinder/index.html"
   },
   {
