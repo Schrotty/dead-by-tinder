@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/dead-by-tinder/static/css/main.0f8e55fa.chunk.css",
-    "main.js": "/dead-by-tinder/static/js/main.d8c48709.chunk.js",
-    "main.js.map": "/dead-by-tinder/static/js/main.d8c48709.chunk.js.map",
+    "main.css": "/dead-by-tinder/static/css/main.9bdcf2b1.chunk.css",
+    "main.js": "/dead-by-tinder/static/js/main.2d08bc62.chunk.js",
+    "main.js.map": "/dead-by-tinder/static/js/main.2d08bc62.chunk.js.map",
     "runtime-main.js": "/dead-by-tinder/static/js/runtime-main.18d614d2.js",
     "runtime-main.js.map": "/dead-by-tinder/static/js/runtime-main.18d614d2.js.map",
     "static/js/2.d5999616.chunk.js": "/dead-by-tinder/static/js/2.d5999616.chunk.js",
     "static/js/2.d5999616.chunk.js.map": "/dead-by-tinder/static/js/2.d5999616.chunk.js.map",
     "index.html": "/dead-by-tinder/index.html",
-    "precache-manifest.73535365a136e89bcff340ee0aff4e31.js": "/dead-by-tinder/precache-manifest.73535365a136e89bcff340ee0aff4e31.js",
+    "precache-manifest.3fc711b68e354857ce4e82faa2b17d6a.js": "/dead-by-tinder/precache-manifest.3fc711b68e354857ce4e82faa2b17d6a.js",
     "service-worker.js": "/dead-by-tinder/service-worker.js",
-    "static/css/main.0f8e55fa.chunk.css.map": "/dead-by-tinder/static/css/main.0f8e55fa.chunk.css.map",
+    "static/css/main.9bdcf2b1.chunk.css.map": "/dead-by-tinder/static/css/main.9bdcf2b1.chunk.css.map",
     "static/js/2.d5999616.chunk.js.LICENSE.txt": "/dead-by-tinder/static/js/2.d5999616.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.18d614d2.js",
     "static/js/2.d5999616.chunk.js",
-    "static/css/main.0f8e55fa.chunk.css",
-    "static/js/main.d8c48709.chunk.js"
+    "static/css/main.9bdcf2b1.chunk.css",
+    "static/js/main.2d08bc62.chunk.js"
   ]
 }
