@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3b84463dbe0e611f55ad341011b5a974",
+    "revision": "a3fb904f3e490a4c080a538896e52a5e",
     "url": "/dead-by-tinder/index.html"
   },
   {
-    "revision": "f961f5c347e788418e31",
+    "revision": "8e27e979ab2e1a3981bb",
     "url": "/dead-by-tinder/static/css/main.d17f56aa.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dead-by-tinder/static/js/2.d5999616.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f961f5c347e788418e31",
-    "url": "/dead-by-tinder/static/js/main.9652de82.chunk.js"
+    "revision": "8e27e979ab2e1a3981bb",
+    "url": "/dead-by-tinder/static/js/main.da1ed7ad.chunk.js"
   },
   {
     "revision": "effe67163928cfdc0289",

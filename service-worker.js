@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/dead-by-tinder/precache-manifest.fee2d8291d837d5c4f3ea23323681903.js"
+  "/dead-by-tinder/precache-manifest.03d6e18ce76674ac84cd940aff669e9a.js"
 );
 
 self.addEventListener('message', (event) => {
